@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Портфолио</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <nav>
+        <a href="index.html">Басты бет</a>
+        <a href="portfolio.html">Портфолио</a>
+        <a href="contact.html">Контакт</a>
+    </nav>
+</header>
+
+<h1>Менің дағдыларым</h1>
+<ul>
+    <li>HTML/CSS</li>
+    <li>Python</li>
+    <li>C++</li>
+</ul>
+
+<h2>Жобалар</h2>
+<ol>
+    <li>Hackathon жобасы</li>
+    <li>Web тапсырмалар</li>
+</ol>
+
+<h2>Жұмыс суреттерім</h2>
+<img src="work1.jpg" width="200">
+<img src="work2.jpg" width="200">
+<img src="work3.jpg" width="200">
+
+<h2>Кесте</h2>
+<table border="1">
+    <tr><th>Тіл</th><th>Деңгей</th></tr>
+    <tr><td>Python</td><td>Орта</td></tr>
+    <tr><td>HTML/CSS</td><td>Жоғары</td></tr>
+    <tr><td>C++</td><td>Бастапқы</td></tr>
+</table>
+
+</body>
+</html>

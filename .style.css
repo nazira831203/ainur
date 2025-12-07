@@ -1,0 +1,14 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h1 {
+    color: darkblue;
+}

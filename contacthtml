@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Контакт</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <nav>
+        <a href="index.html">Басты бет</a>
+        <a href="portfolio.html">Портфолио</a>
+        <a href="contact.html">Контакт</a>
+    </nav>
+</header>
+
+<h1>Байланыс</h1>
+<p>Email: example@gmail.com</p>
+<p>Instagram: @меніңаккаунт</p>
+
+<h2>Google Maps (қоссаң +3 балл)</h2>
+<iframe src="YOUR_MAP_EMBED_HERE" width="300" height="200"></iframe>
+
+</body>
+</html>

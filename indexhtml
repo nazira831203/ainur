@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <title>Басты бет</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Менің жеке сайтым</h1>
+</header>
+
+<nav>
+    <a href="index.html">Басты бет</a> |
+    <a href="portfolio.html">Портфолио</a> |
+    <a href="contact.html">Контакт</a>
+</nav>
+
+<main>
+    <h2>Мен туралы</h2>
+    <p>Аты-жөні: Аружан</p>
+    <p>Мамандығы: Информатика</p>
+    <img src="photo.jpg" width="200">
+</main>
+
+<footer>
+    <p>Барлық құқықтар қорғалған © 2025</p>
+</footer>
+</body>
+</html>
